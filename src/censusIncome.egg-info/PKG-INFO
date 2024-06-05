@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: censusIncome
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/MannShrestha/ML_Adult_Census_Income
+Author: MannShrestha
+Author-email: mannshrestha01@gmail.com
+Project-URL: Bug Tracker, https://github.com/MannShrestha/ML_Adult_Census_Income/issues
+
+## End-to-End-Machine_Learning-Adult-Census-Income
+
+## Dataset: [Data source](https://archive.ics.uci.edu/dataset/2/adult)
