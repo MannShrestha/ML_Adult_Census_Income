@@ -1,7 +1,6 @@
 import os,sys
 from censusIncome import logger
-from src.censusIncome.exception import CustomException
-import dill
+from censusIncome.exception import CustomException
 import pickle
 
 
