@@ -8,7 +8,7 @@ from censusIncome.utils.common import load_object
 
 
 class PredictionPipeline:
-    def __init__():
+    def __init__(self):
         pass
 
     
